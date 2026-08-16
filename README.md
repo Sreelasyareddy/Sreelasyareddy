@@ -13,11 +13,6 @@
   <img src="https://img.shields.io/badge/Open%20to%20Internships-22C55E?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreelasyareddy&label=Profile%20views&color=7C3AED&style=flat" />
-  <img src="https://img.shields.io/github/followers/Sreelasyareddy?label=Followers&style=flat&color=7C3AED" />
-</p>
-
 ---
 
 ## 👋 About Me
