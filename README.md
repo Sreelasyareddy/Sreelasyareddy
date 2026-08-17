@@ -1,10 +1,10 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=180&section=header&text=Sree%20Lasya%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Data%20Science%20%C2%B7%20Bioinformatics&descAlignY=56&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D4ED8,100:2E8B57&height=180&section=header&text=Sree%20Lasya%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%C2%B7%20Data%20Science%20%C2%B7%20Bioinformatics&descAlignY=56&descSize=16" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=800&color=7C3AED&center=true&vCenter=true&width=620&lines=MS+in+Computer+Science+%40+Arizona+State+University;Machine+Learning+%26+Applied+AI;Where+Bioinformatics+meets+Data+Science" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3200&pause=800&color=2E8B57&center=true&vCenter=true&width=620&lines=MS+in+Computer+Science+%40+Arizona+State+University;Machine+Learning+%26+Applied+AI;Where+Bioinformatics+meets+Data+Science" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sreelasyareddy&label=Profile%20views&color=7C3AED&style=flat" />
-  <img src="https://img.shields.io/github/followers/Sreelasyareddy?label=Followers&style=flat&color=7C3AED" />
+  <img src="https://komarev.com/ghpvc/?username=Sreelasyareddy&label=Profile%20views&color=2E8B57&style=flat" />
+  <img src="https://img.shields.io/github/followers/Sreelasyareddy?label=Followers&style=flat&color=2E8B57" />
 </p>
 
 ---
@@ -156,5 +156,5 @@ ask_me_about: ["ML pipelines", "BioBERT & biomedical NLP", "AWS", "React"]
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:1D4ED8&height=100&section=footer" />
 </p>
